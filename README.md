@@ -1,3 +1,6 @@
-# Assignment-1
+# FFCS - Assignment - 1
 
-![image](https://user-images.githubusercontent.com/91791834/230790038-189ff3b2-5852-442a-8789-370a85712ff1.png)
+### - Geoffrey Anto Ignatius E
+### - 21BPS1388
+
+![image](https://user-images.githubusercontent.com/91791834/230790259-8c8133cb-918e-4375-9061-36a0d57360b5.png)
